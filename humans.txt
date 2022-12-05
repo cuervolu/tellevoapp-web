@@ -1,0 +1,34 @@
+/* humanstxt.org */
+The humans responsible & technology colophon
+
+/* PROJECT */
+
+	Site Name: TeLlevoApp
+	Site URL: TODO: Add site url
+	Created: 2022/12/04 
+	Web Design: Angel Cuervo
+        Contact: an.cuervo [at] duocuc.cl
+
+/* SITE */
+	Last update: 2022/12/04
+	Language: Spanish
+	Doctype: HTML5
+	Standards: HTML5, CSS3
+	Software: Visual Studio Code, Git
+
+/* AUTHOR */
+
+	Name: Ángel Cuervo
+	Nickname: Cuervolu
+	Title: IT Student
+	Location: Chile
+
+/* SOCIAL */
+
+	Twitter: https://twitter.com/cuervolu29
+	Instagram: https://www.instagram.com/cuervolu/
+
+/* TECHNOLOGY */
+
+	Built with: React, Vite, HTML, CSS, TYpescript
+        Plugins: React-Bootrstrap, React-Spinners, React-Device-Detect
