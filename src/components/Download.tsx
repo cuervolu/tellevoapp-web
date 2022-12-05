@@ -16,10 +16,6 @@ export const Download = () => {
 
   if (isMobile) {
     isMobileOrDesktop = (
-      <Image src={qr} alt="Código QR" className="download-qr" loading="lazy" />
-    );
-  } else {
-    isMobileOrDesktop = (
       <>
         <Image
           src={download}
@@ -34,6 +30,10 @@ export const Download = () => {
           Descargar
         </Button>
       </>
+    );
+  } else {
+    isMobileOrDesktop = (
+      <Image src={qr} alt="Código QR" className="download-qr" loading="lazy" />
     );
   }
 
