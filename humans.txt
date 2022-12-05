@@ -4,7 +4,7 @@ The humans responsible & technology colophon
 /* PROJECT */
 
 	Site Name: TeLlevoApp
-	Site URL: TODO: Add site url
+	Site URL: https://cuervolu.github.io/tellevoapp-web/
 	Created: 2022/12/04 
 	Web Design: Angel Cuervo
         Contact: an.cuervo [at] duocuc.cl
