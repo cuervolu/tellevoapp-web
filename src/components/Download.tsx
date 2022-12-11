@@ -11,7 +11,7 @@ import { isMobile } from "react-device-detect";
 
 export const Download = () => {
   const url =
-    "https://drive.google.com/uc?export=download&id=1uY41Mk-FDLCHWygEneP-IQ1diODv5HMF";
+    "https://bit.ly/TeLlevoApp";
   let isMobileOrDesktop;
 
   if (isMobile) {
